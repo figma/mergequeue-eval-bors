@@ -2,3 +2,4 @@ Edit this file if you want!
 
 Some stuff.
 foo
+bar
